@@ -1,0 +1,26 @@
+R 1280 720
+S ./assets/pikachu.xpm
+NO ./assets/texture_north.xpm
+SO ./assets/texture_south.xpm
+
+
+
+EA ./assets/texture_east.xpm
+F 100,100,100
+WE ./assets/texture_west.xpm
+C 5,200,120
+
+
+
+
+
+ 11111111111
+  1001010011
+ 1010000001
+11110010001
+102001 1001
+100001  111
+10N0001    
+10000001111
+1000001 101
+111111  111
